@@ -104,3 +104,4 @@ DjangoAvanzado/
 
 # mypy
 .mypy_cache/
+SistemaDiscusiones/.vscode/
