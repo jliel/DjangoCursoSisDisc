@@ -15,3 +15,10 @@ psql "nombre base de datos"
 
 \d                mostrar tablas en la bd
 \q                salir
+
+
+
+python manage.py runserver --settings="nombre_proyecto".settings.local
+
+python manage.py migrate --settings="nombre_proyecto".settings.local
+
