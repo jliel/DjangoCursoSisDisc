@@ -1,0 +1,17 @@
+Instalar postgresql
+
+sudo apt-get install libpq-dev python-dev
+sudo apt-get install postgresql
+
+
+sudo service postgresql start
+
+sudo passwd postgres
+
+createuser "nombre usuario"
+createdb "nombre base de datos"
+
+psql "nombre base de datos"
+
+\d                mostrar tablas en la bd
+\q                salir
