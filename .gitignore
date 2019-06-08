@@ -98,6 +98,8 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
+
+DjangoAvanzado/
 /site
 
 # mypy
