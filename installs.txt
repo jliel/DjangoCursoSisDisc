@@ -3,6 +3,8 @@ Instalar postgresql
 sudo apt-get install libpq-dev python-dev
 sudo apt-get install postgresql
 
+#ingresar a postrgres
+su postgres
 
 sudo service postgresql start
 
